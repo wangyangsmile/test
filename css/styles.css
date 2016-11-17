@@ -6,10 +6,10 @@ body{
   background-color:#ccc;
   height:100px;
   width:100%;
-  
+  margin-top:0;
 }
 #hl{
-  background-color:red;
+  background-color:#3f6;
   margin:0;
   padding:0;
   float:left;
@@ -20,7 +20,7 @@ body{
   background-color:#cff;
   margin:0 auto;
   padding:0;
-  height:500px;
+  height:700px;
   width:800px;
 }
 #foot{
@@ -31,14 +31,7 @@ body{
 h1{
   font-size:3em;
   padding-top:20px;
-  
-}
-p{
-  font-size:2.5em;
-  color:blue;
-  text-align:center;
-  padding:0;
-  margin:0;
+  margin-top:0;
 }
 hr{
 	height:2px;
@@ -53,4 +46,34 @@ hr{
 address{
   text-align:center;
   font-size:1.5em;
+}
+#mail{
+	text-align:center;
+}
+#myphoto{
+	width:300px;
+	height:300px;
+	background-color:#30f;
+	float:left;
+}
+#myinfo{
+	width:500px;
+	height:300px;
+	background-color:#ffc;
+	float:right;
+}
+.myinfo{
+  font-size:1.5em;
+  color:black;
+  padding:0;
+  margin:0;
+}
+#more{
+	text-align:center;
+	margin-top:0;
+}
+#morep{
+	font-size:1.25em;
+	color:#39f;
+	
 }
