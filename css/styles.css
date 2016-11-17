@@ -1,0 +1,56 @@
+body{
+  margin:0;
+  padding:0;
+}
+#head{
+  background-color:#ccc;
+  height:100px;
+  width:100%;
+  
+}
+#hl{
+  background-color:red;
+  margin:0;
+  padding:0;
+  float:left;
+  width:200px;
+  height:100px;
+}
+#body{
+  background-color:#cff;
+  margin:0 auto;
+  padding:0;
+  height:500px;
+  width:800px;
+}
+#foot{
+  background-color:#ccf;
+  width:100%;
+  height:100px;
+}
+h1{
+  font-size:3em;
+  padding-top:20px;
+  
+}
+p{
+  font-size:2.5em;
+  color:blue;
+  text-align:center;
+  padding:0;
+  margin:0;
+}
+hr{
+	height:2px;
+	border:none;
+	border-top:2px dotted #185598;
+}
+#email{
+  text-align:center;
+  color:black;
+  font-size:1em;
+}
+address{
+  text-align:center;
+  font-size:1.5em;
+}
